@@ -1,0 +1,16 @@
+C:\Users\crazy\OneDrive\Desktop\Stock-Market-Charting\SectorService\src\main\java\com\example\SectorService\config\SpringFoxConfig.java
+C:\Users\crazy\OneDrive\Desktop\Stock-Market-Charting\SectorService\src\main\java\com\example\SectorService\controller\SectorController.java
+C:\Users\crazy\OneDrive\Desktop\Stock-Market-Charting\SectorService\src\main\java\com\example\SectorService\exception\SectorNotFoundException.java
+C:\Users\crazy\OneDrive\Desktop\Stock-Market-Charting\SectorService\src\main\java\com\example\SectorService\mapper\CompanyMapper.java
+C:\Users\crazy\OneDrive\Desktop\Stock-Market-Charting\SectorService\src\main\java\com\example\SectorService\service\SectorService.java
+C:\Users\crazy\OneDrive\Desktop\Stock-Market-Charting\SectorService\src\main\java\com\example\SectorService\SectorServiceApplication.java
+C:\Users\crazy\OneDrive\Desktop\Stock-Market-Charting\SectorService\src\main\java\com\example\SectorService\service\impl\SectorServiceImpl.java
+C:\Users\crazy\OneDrive\Desktop\Stock-Market-Charting\SectorService\src\main\java\com\example\SectorService\dao\SectorRepository.java
+C:\Users\crazy\OneDrive\Desktop\Stock-Market-Charting\SectorService\src\main\java\com\example\SectorService\model\Sector.java
+C:\Users\crazy\OneDrive\Desktop\Stock-Market-Charting\SectorService\src\main\java\com\example\SectorService\dto\CompanyDto.java
+C:\Users\crazy\OneDrive\Desktop\Stock-Market-Charting\SectorService\src\main\java\com\example\SectorService\dto\SectorDto.java
+C:\Users\crazy\OneDrive\Desktop\Stock-Market-Charting\SectorService\src\main\java\com\example\SectorService\model\Company.java
+C:\Users\crazy\OneDrive\Desktop\Stock-Market-Charting\SectorService\src\main\java\com\example\SectorService\exception\ErrorResponse.java
+C:\Users\crazy\OneDrive\Desktop\Stock-Market-Charting\SectorService\src\main\java\com\example\SectorService\exception\SectorControllerExceptionHandler.java
+C:\Users\crazy\OneDrive\Desktop\Stock-Market-Charting\SectorService\src\main\java\com\example\SectorService\initializer\SectorServiceInitializer.java
+C:\Users\crazy\OneDrive\Desktop\Stock-Market-Charting\SectorService\src\main\java\com\example\SectorService\mapper\SectorMapper.java
