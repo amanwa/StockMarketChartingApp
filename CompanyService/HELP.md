@@ -22,7 +22,6 @@ The following guides illustrate how to use some features concretely:
 * [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
 * [Service Registration and Discovery with Eureka and Spring Cloud](https://spring.io/guides/gs/service-registration-and-discovery/)
 * [Accessing Data with MongoDB](https://spring.io/guides/gs/accessing-data-mongodb/)
-* [Centralized Configuration](https://spring.io/guides/gs/centralized-configuration/)
 * [Building a RESTful Web Service with Spring Boot Actuator](https://spring.io/guides/gs/actuator-service/)
 
 ### Additional Links
